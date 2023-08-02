@@ -1,0 +1,29 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "description": "pekiştirme amaçlı to-do uygulaması",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omerKor/mern-to-do.git"
+  },
+  "keywords": [
+    "mern",
+    "to-do"
+  ],
+  "author": "OmerKor,omerkorr@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omerKor/mern-to-do/issues"
+  },
+  "homepage": "https://github.com/omerKor/mern-to-do#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongodb": "^5.7.0",
+    "mongoose": "^7.4.1"
+  }
+}
